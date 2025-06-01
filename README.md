@@ -40,6 +40,11 @@ _Aug 2022 – Aug 2023_
 - Implemented camera/photo recording features inside virtual land  
 - Built popup and shop item preview system
 
+---
+
+## 🔭 I’m currently working on ...
+https://github.com/now2ah/NetworkWorldProject - TCP/IP based chatting program in Unity
+
 <!--
 **now2ah/now2ah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
