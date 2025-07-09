@@ -42,7 +42,7 @@ _Aug 2022 – Aug 2023_
 
 ---
 
-## 🔭 I’m currently working on ...
+## ⌨ I’m currently working on ...
 [https://github.com/now2ah/MeowrioParty](https://github.com/now2ah/MeowrioParty) - Refactoring Group Project (Meowrio Party)
 
 <!--
