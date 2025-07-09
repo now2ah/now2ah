@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=150&color=gradient&text=now2ah's%20Github&section=header&reversal=false)
 
-## 🎮 Game Programmer, now2ah, Hwang Hae won
+## 🎮 Game Programmer, now2ah, Hwang Haewon
 Hi, there!👋  
 I’m Hwang Hae won, a client side game programmer who aspires to be a true craftsman in software development.  
 My goal is become a good software engineer who can write clean, maintainable code and build high-quality game systems.
@@ -43,7 +43,7 @@ _Aug 2022 – Aug 2023_
 ---
 
 ## 🔭 I’m currently working on ...
-https://github.com/now2ah/NetworkWorldProject - TCP/IP based chatting program in Unity
+[https://github.com/now2ah/MeowrioParty](https://github.com/now2ah/MeowrioParty) - Refactoring Group Project (Meowrio Party)
 
 <!--
 **now2ah/now2ah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
