@@ -2,7 +2,7 @@
 
 ## 🎮 Game Programmer, now2ah, Hwang Haewon
 Hi, there!👋  
-I’m Hwang Hae won, a client side game programmer who aspires to be a true craftsman in software development.  
+I’m Hwang Haewon, a client side game programmer who aspires to be a true craftsman in software development.  
 My goal is become a good software engineer who can write clean, maintainable code and build high-quality game systems.
 * I can comfortably read and understand most technical documents in English. 📑
 * I have experience publishing a Unity 3D defense game to the Google Play Store. 🎮
